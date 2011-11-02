@@ -5,7 +5,7 @@ import math
 import copy
 import os
 import apikey
-path = '/home/ocoutts/host/get_friends/logs/'
+path = 'THIS IS WHERE YOU PUT YOUR LOG PATH'
 print path
 
 def get_friends(access_token = apikey.APIKEY):
