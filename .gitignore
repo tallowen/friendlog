@@ -2,3 +2,4 @@
 *.pyo
 apikey.py
 logs/
+.DS_Store
