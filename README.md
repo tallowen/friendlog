@@ -20,6 +20,8 @@ The easiest way to get yourself an api key is to use facebook's graph explorer a
 ### Add a cronjob
 Add a cronjob to check at a regular frequency for any changes. Here is mine:
 
-       *       *       *       *       /usr/bin/python /PATH/TO/scrape.py
+03       *       *       *       *       /usr/bin/python /PATH/TO/scrape.py
+
+This makes the script execute every 3rd minute of every hour.
 
 Goodluck, feel free to contact me if you have questions.
